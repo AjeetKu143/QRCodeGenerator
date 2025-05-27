@@ -31,6 +31,7 @@ A modern, glassmorphic-styled form card with minimal gaps, clean typography, and
 
 - **HTML5**
 - **CSS3** (Flexbox, Grid, Google Fonts, Linear Gradients)
+- **JavaScript**
 
 ---
 
