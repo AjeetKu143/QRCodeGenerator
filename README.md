@@ -39,4 +39,4 @@ A modern, glassmorphic-styled form card with minimal gaps, clean typography, and
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/AjeetKu143/QRCodeGenerator.git
