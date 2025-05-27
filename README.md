@@ -1,4 +1,4 @@
-# ✨ Stylish Form Card UI
+# ✨ QR Code Generator
 
 A modern, glassmorphic-styled form card with minimal gaps, clean typography, and a gradient footer that stretches across the entire viewport. Built with pure HTML and CSS.
 
@@ -6,7 +6,7 @@ A modern, glassmorphic-styled form card with minimal gaps, clean typography, and
 
 ## 🚀 Live Demo
 
-[![View Live](https://img.shields.io/badge/🔗%20View%20Live%20Demo-ff7f50?style=for-the-badge&logo=firefox-browser&logoColor=white)](YOUR_LIVE_SITE_URL_HERE)
+[![View Live](https://img.shields.io/badge/🔗%20View%20Live%20Demo-ff7f50?style=for-the-badge&logo=firefox-browser&logoColor=white)]([YOUR_LIVE_SITE_URL_HERE](https://qr-code-generator-ajeet.netlify.app/))
 
 ---
 
