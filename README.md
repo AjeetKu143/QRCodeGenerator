@@ -6,7 +6,7 @@ A modern, glassmorphic-styled form card with minimal gaps, clean typography, and
 
 ## 🚀 Live Demo
 
-[![View Live](https://img.shields.io/badge/🔗%20View%20Live%20Demo-ff7f50?style=for-the-badge&logo=firefox-browser&logoColor=white)]((https://qr-code-generator-ajeet.netlify.app/))
+[![View Live](https://img.shields.io/badge/🔗%20View%20Live%20Demo-ff7f50?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://qr-code-generator-ajeet.netlify.app/)
 
 ---
 
